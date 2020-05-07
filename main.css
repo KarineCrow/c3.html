@@ -1,0 +1,49 @@
+body{
+    margin: auto;
+    width:100% ;
+    height:100%;
+    font-style: oblique;
+    font-family: 'Indie Flower', cursive;
+    margin-block-start: 0em;
+    background-image: url(https://66.media.tumblr.com/9c49cea13f984f57fdd410a011310f33/tumblr_mgjl7cJALh1qgljfco1_500.jpg);
+    }
+.Menu-principal {
+    background-color: #000000;
+    height:70px;
+    width:100%;
+}
+.header-2{
+    background-color:#00cc00 ;
+    height:300px;
+
+}
+.header-3{
+    background-color:#00cc00 ;
+    height:200px;
+    margin-top:60px;
+}  
+
+.header-4 {
+   text-size-adjust: 20px;
+   background-color:#00000098;
+}
+h1{color: #001fcc;
+text-align: center;
+height:60px; 
+background-color:#000000;
+}
+h3{color:#cc33ff ;
+text-align: left;
+}
+p{color:#6600cc;
+margin-left:40px;
+}
+ul{color: #66ff33;
+   text-size-adjust:30px;
+}
+.logo{background-color: #000000;}
+.imagem{
+    float: right;
+    margin-top: 60px;
+    margin-right:60px;
+}
